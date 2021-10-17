@@ -8,6 +8,9 @@ const ticketSchema = new Schema({
     Date:{
         type:Date
     },
+    SeatNo:{
+        type:Number
+    },
     FromCity:{
        type:String
     },
