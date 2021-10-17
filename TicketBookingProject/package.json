@@ -1,0 +1,31 @@
+{
+  "name": "ticketbookingproject",
+  "version": "1.0.0",
+  "description": "Bus Booking App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rvga1996/TicketBookingProject-MERN.git"
+  },
+  "keywords": [
+    "MERN",
+    "TicketBooking",
+    "WebApp"
+  ],
+  "author": "Phanidhar Bobba and Raghavendra Chowdary Bobba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rvga1996/TicketBookingProject-MERN/issues"
+  },
+  "homepage": "https://github.com/Rvga1996/TicketBookingProject-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11",
+    "nodemon": "^2.0.13",
+    "uuid": "^8.3.2"
+  }
+}

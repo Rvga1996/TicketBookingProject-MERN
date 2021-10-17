@@ -1,0 +1,29 @@
+[{
+   "TravelsName": "Pheonix Tours",
+   "RegistrationNumber": "AP28DD1234",
+   "FromCity": "Hyderabad",
+   "ToCity": "Vizag",
+   "IsActive": true   
+},
+{
+   "TravelsName": "Pheonix Tours",
+   "RegistrationNumber": "AP28DD1230",
+   "FromCity": "Hyderabad",
+   "ToCity": "Vijayawada",
+   "IsActive": true   
+},
+{
+   "TravelsName": "Pheonix Tours",
+   "RegistrationNumber": "AP28DD1231",
+   "FromCity": "Vizag",
+   "ToCity": "Hyderabad",
+   "IsActive": true   
+},
+{
+   "TravelsName": "Alpha Tours",
+   "RegistrationNumber": "AP28DD1235",
+   "FromCity": "Vijayawada",
+   "ToCity": "Hyderabad",
+   "IsActive": true   
+}
+]

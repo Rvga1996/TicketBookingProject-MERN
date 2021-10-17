@@ -1,0 +1,30 @@
+[
+{
+ "WindowSeats":10,
+ "AiselSeats":10,
+ "SeatsPerRow": 4,
+ "TotalSeats":20,
+ "BusNumber":"AP28DD1234"
+},
+{
+ "WindowSeats":10,
+ "AiselSeats":10,
+ "SeatsPerRow": 4,
+ "TotalSeats":20,
+ "BusNumber":"AP28DD1230"
+},
+{
+ "WindowSeats":10,
+ "AiselSeats":10,
+ "SeatsPerRow": 4,
+ "TotalSeats":20,
+ "BusNumber":"AP28DD1231"
+},
+{
+ "WindowSeats":20,
+ "AiselSeats":20,
+ "SeatsPerRow": 4,
+ "TotalSeats":40,
+ "BusNumber": "AP28DD1235"
+},
+]
